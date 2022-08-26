@@ -1,0 +1,94 @@
+SrNo,PaperName,Paper Code,GEN,OBC,SC_ST,Year
+1,Life Sciences,XL,31.7,28.5,21.1,2020
+2,Civil Engineering,CE,32.9,29.6,21.9,2020
+3,Electrical Engineering,EE,33.4,30,22.2,2020
+4,CS_IT,CS,28.5,25.6,19,2020
+5,Mechanical Engineering,ME,34,30.6,22.6,2020
+6,Petroleum Engineering,PE,39.8,35.8,26.5,2020
+7,Electronics and Communication Engineering,EC,28.8,25.9,19.2,2020
+8,Chemical Engineering,CH,35.7,32.1,23.8,2020
+9,Chemistry,CY,26.7,24,17.8,2020
+10,Biotechnology,BT,30.7,27.6,20.4,2020
+11,Engineering Sciences Minor,XE,26,23.4,17.3,2020
+12,Textile Engineering and Fibre Science,TF,37.1,33.3,24.7,2020
+13,Aerospace Engineering,AE,27.2,24.4,18.1,2020
+14,Agricultural Engineering,AG,26.3,23.6,17.5,2020
+15,Architecture and Planning,AR,34.8,31.3,23.2,2020
+16,Ecology and Evolution,EY,42.2,37.9,28.1,2020
+17,Geology,GG,38.4,34.5,25.6,2020
+18,Mathematics,MA,25,22.5,16.7,2020
+19,Mining Engineering,MN,32.7,29.4,21.8,2020
+20,Metallurgical Engineering,MT,49.2,44.2,32.8,2020
+21,Physics,PH,37.2,33.4,24.8,2020
+22,Production and Industrial Engineering,PI,36.6,32.9,24.4,2020
+23,Statistics,ST,25,22.5,16.6,2020
+24,Biomedical Engineering,BM,25,22.5,16.6,2020
+25,Life Sciences,XL,36.7,33,24.5,2019
+26,Civil Engineering,CE,28.2,25.4,18.8,2019
+27,Electrical Engineering,EE,39.6,35.6,26.4,2019
+28,CS_IT,CS,29.5,26.6,19.7,2019
+29,Mechanical Engineering,ME,34.1,30.7,22.7,2019
+30,Petroleum Engineering,PE,49.9,44.9,33.3,2019
+31,Electronics and Communication Engineering,EC,26.7,24,17.8,2019
+32,Chemical Engineering,CH,34.8,31.3,23.2,2019
+33,Chemistry,CY,32,28.8,21.3,2019
+34,Biotechnology,BT,35.9,32.3,23.9,2019
+35,Engineering Sciences,XE,26.7,24,17.8,2019
+36,Textile Engineering and Fibre Science,TF,40.1,36.1,26.7,2019
+37,Aerospace Engineering,AE,33.5,30.2,22.3,2019
+38,Agricultural Engineering,AG,28.3,25.5,18.9,2019
+39,Architecture and Planning,AR,41,36.9,27.3,2019
+40,Ecology and Evolution,EY,37.1,33.4,24.7,2019
+41,Geology and Geophysics,GG,44.5,40.1,29.7,2019
+42,Instrumentation Engineering,IN,31.9,28.7,21.3,2019
+43,Mathematics,MA,25,22.5,16.7,2019
+44,Mining Engineering,MN,31.5,28.4,21,2019
+45,Metallurgical Engineering,MT,53.5,48.1,35.7,2019
+46,Physics,PH,25.2,22.7,16.8,2019
+47,Production and Industrial Engineering,PI,32.2,29,21.5,2019
+48,Statistics,ST,32.5,29.2,21.7,2019
+49,Aerospace Engineering,AE,34.4,30.9,22.9,2018
+50,Agricultural Engineering,AG,25,22.5,16.6,2018
+51,Architecture and Planning,AR,43.9,39.5,29.2,2018
+52,Biotechnology,BT,27.9,25.1,18.5,2018
+53,Civil Engineering,CE,26.9,24.2,17.9,2018
+54,Chemical Engineering,CH,37.8,34,25.1,2018
+55,CS_IT,CS,25,22.5,16.6,2018
+56,Chemistry,CY,25.4,22.8,16.9,2018
+57,Electronics and Communication Engineering,EC,25,22.5,16.6,2018
+58,Electrical Engineering,EE,29.1,26.1,19.4,2018
+59,Ecology and Evolution,EY,49.3,44.3,32.8,2018
+60,Geology and Geophysics,GG,32.4,29.1,21.5,2018
+61,Instrumentation Engineering,IN,37.1,33.3,24.7,2018
+62,Mathematics,MA,29.4,26.4,19.5,2018
+63,Mechanical Engineering,ME,34.7,31.2,23.1,2018
+64,Mining Engineering,MN,45,40.5,30,2018
+65,Metallurgical Engineering,MT,40.3,36.2,26.8,2018
+66,Petroleum Engineering,PE,39.8,35.8,26.5,2018
+67,Physics,PH,29,26.1,19.3,2018
+68,Production and Industrial Engineering,PI,32,28.8,21.3,2018
+69,Textile Engineering and Fibre Science,TF,32.2,28.9,21.4,2018
+70,Engineering Sciences,XE,31.5,28.3,21,2018
+71,Life Sciences,XL,29.9,26.9,19.9,2018
+72,Electronics and Communication,EC,25,22.5,16.6,2017
+73,Civil Engineering,CE,28.7,25.8,19.1,2017
+74,Electrical Engineering,EE,25.2,25.2,16.7,2017
+75,Mechanical Engineering,ME,32.87,29,21,2017
+76,Computer Science & Information Technology,CS,25,22.5,16.6,2017
+77,Instrumentation Engineering,IN,34.6,31.1,23,2017
+78,Chemical Engineering,CH,44.3,39.8,29.5,2017
+79,Biotechnology,BT,38.9,35,25.9,2017
+80,Mechanical Engineering,ME,29.6,26.6,19.7,2016
+81,Civil Engineering,CE,25,22.5,16.6,2016
+82,Electrical Engineering,EE,25.1,22.5,16.7,2016
+83,Electronics and Communication Engineering ,EC,25,22.5,16.6,2016
+84,CS_IT,CS,25,22.5,16.6,2016
+85,Instrumentation Engineering ,IN,31.6,28.4,21,2016
+86,Production and Industrial Engineering,PI,26.4,23.7,17.5,2016
+87,Mechanical Engineering,ME,32.73,29.46,21.82,2015
+88,Civil Engineering,CE,25,22.5,16.67,2015
+89,Electrical Engineering,EE,25,22.5,16.67,2015
+90,Electronics and Communication Engineering,EC,25,22.5,16.67,2015
+91,CS_IT,CS,25,22.5,16.67,2015
+92,Instrumentation Engineering,IN,25.45,22.9,16.96,2015
+93,Production and Industrial Engineering,PI,26.82,24.14,17.88,2015
